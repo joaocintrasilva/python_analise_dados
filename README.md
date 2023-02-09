@@ -1,2 +1,3 @@
 # Analíse de dados com o Pandas
-teste
+
+Esse repositorio visa reunir as informaçoes sobre analise e visualizaçao de dados a partir da linguagem python
